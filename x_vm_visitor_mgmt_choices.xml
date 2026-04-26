@@ -14,6 +14,9 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-04-27 01:14:00</sys_updated_on>
+        <sys_package>visitor_mgmt_app</sys_package>
+        <sys_policy/>
+        <sys_scope>x_vm_visitor_mgmt</sys_scope>
     </sys_choice>
     
     <sys_choice action="INSERT_OR_UPDATE">
@@ -29,6 +32,9 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-04-27 01:14:00</sys_updated_on>
+        <sys_package>visitor_mgmt_app</sys_package>
+        <sys_policy/>
+        <sys_scope>x_vm_visitor_mgmt</sys_scope>
     </sys_choice>
     
     <sys_choice action="INSERT_OR_UPDATE">
@@ -44,6 +50,9 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-04-27 01:14:00</sys_updated_on>
+        <sys_package>visitor_mgmt_app</sys_package>
+        <sys_policy/>
+        <sys_scope>x_vm_visitor_mgmt</sys_scope>
     </sys_choice>
     
     <sys_choice action="INSERT_OR_UPDATE">
