@@ -1,0 +1,5 @@
+# ServiceNow Studio gitignore
+*.log
+*.tmp
+.cache/
+.DS_Store
