@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_form">
+    <sys_ui_form action="INSERT_OR_UPDATE">
+        <name>x_vm_visitor_mgmt_visitor</name>
+        <sys_class_name>sys_ui_form</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 01:14:00</sys_created_on>
+        <sys_id>visitor_form_id</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope/>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 01:14:00</sys_updated_on>
+        <view/>
+    </sys_ui_form>
+    
+    <!-- Form Sections -->
+    <sys_ui_form_section action="INSERT_OR_UPDATE">
+        <position>0</position>
+        <sys_class_name>sys_ui_form_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 01:14:00</sys_created_on>
+        <sys_id>visitor_form_section_1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope/>
+        <sys_ui_form/>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 01:14:00</sys_updated_on>
+        <sys_ui_section>visitor_details_section</sys_ui_section>
+    </sys_ui_form_section>
+    
+    <sys_ui_form_section action="INSERT_OR_UPDATE">
+        <position>1</position>
+        <sys_class_name>sys_ui_form_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 01:14:00</sys_created_on>
+        <sys_id>visitor_form_section_2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope/>
+        <sys_ui_form/>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 01:14:00</sys_updated_on>
+        <sys_ui_section>visit_details_section</sys_ui_section>
+    </sys_ui_form_section>
+</record_update>
