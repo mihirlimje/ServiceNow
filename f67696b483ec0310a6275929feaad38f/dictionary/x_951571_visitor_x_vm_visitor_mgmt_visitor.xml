@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8b7262fc83204310a6275929feaad37b" label="x_vm_visitor_mgmt_visitor" max_length="40" name="x_951571_visitor_x_vm_visitor_mgmt_visitor" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

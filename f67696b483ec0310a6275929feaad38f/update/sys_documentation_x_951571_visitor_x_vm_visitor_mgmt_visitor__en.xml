@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="x_vm_visitor_mgmt_visitor" language="en" table="x_951571_visitor_x_vm_visitor_mgmt_visitor">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>x_vm_visitor_mgmt_visitor</label>
+            <language>en</language>
+            <name>x_951571_visitor_x_vm_visitor_mgmt_visitor</name>
+            <plural>x_vm_visitor_mgmt_visitors</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-27 05:29:02</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_vm_visitor_mgmt_visitor</sys_name>
+            <sys_package display_value="visitor" source="x_951571_visitor">f67696b483ec0310a6275929feaad38f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="visitor">f67696b483ec0310a6275929feaad38f</sys_scope>
+            <sys_update_name>sys_documentation_x_951571_visitor_x_vm_visitor_mgmt_visitor__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-27 05:29:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
