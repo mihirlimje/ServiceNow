@@ -2,7 +2,7 @@
 <record_update table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application/>
+        <application>visitor_app_menu_id</application>
         <filter/>
         <hint/>
         <homepage/>
@@ -12,7 +12,7 @@
         <order/>
         <query/>
         <report/>
-        <roles/>
+        <roles>x_vm_visitor_mgmt_user</roles>
         <sys_class_name>sys_ui_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-27 01:14:00</sys_created_on>
