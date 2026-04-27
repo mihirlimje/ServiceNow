@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <!-- Visitor Management User Role -->
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable>true</assignable>
+        <can_delegate>true</can_delegate>
+        <description>User role for Visitor Management application - allows access to visitor records and forms</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_vm_visitor_mgmt_user</name>
+        <requires_subscription>false</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 01:14:00</sys_created_on>
+        <sys_id>visitor_user_role_id</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package>visitor_mgmt_app</sys_package>
+        <sys_policy/>
+        <sys_scope>x_vm_visitor_mgmt</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 01:14:00</sys_updated_on>
+    </sys_user_role>
+    
+    <!-- Visitor Management Admin Role -->
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable>true</assignable>
+        <can_delegate>true</can_delegate>
+        <description>Admin role for Visitor Management application - allows full administrative access</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles>x_vm_visitor_mgmt_user</includes_roles>
+        <name>x_vm_visitor_mgmt_admin</name>
+        <requires_subscription>false</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 01:14:00</sys_created_on>
+        <sys_id>visitor_admin_role_id</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package>visitor_mgmt_app</sys_package>
+        <sys_policy/>
+        <sys_scope>x_vm_visitor_mgmt</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 01:14:00</sys_updated_on>
+    </sys_user_role>
+</record_update>
